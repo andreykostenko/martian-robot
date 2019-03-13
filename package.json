@@ -1,0 +1,23 @@
+{
+  "name": "martian-robot-red-badger",
+  "version": "1.0.0",
+  "description": "test task for red badger",
+  "main": "main.js",
+  "dependencies": {
+    "line-reader": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andreykostenko",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreykostenko/martian-robot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andreykostenko/martian-robot/issues"
+  },
+  "homepage": "https://github.com/andreykostenko/martian-robot#readme"
+}

@@ -1,5 +1,3 @@
-
-
 class Robot {
 	constructor(x, y, orientation) {
 		this.x = x;
@@ -14,12 +12,6 @@ class Robot {
 	}
 
 }
-
-
-
-
-
-
 
 
 module.exports = Robot;

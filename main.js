@@ -4,7 +4,7 @@ const lineReader = require('line-reader');
 const Surface = require('./surface.js');
 
 let i = 0, currentRobot = null, surface = null;
-lineReader.eachLine('input.txt', function (line, last) {
+lineReader.eachLine('instructions.txt', function (line, last) {
 	if (i === 0) {
 		surface = new Surface(line);
 		console.log("Init surface")
